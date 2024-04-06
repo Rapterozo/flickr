@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickrApp</string>
+    <string name="no_data_to_show">No data to show</string>
+    <string name="error_unexpected">Error happened!</string>
+    <string name="image_content_description">image</string>
+    <string name="cannot_open_link">Cannot open link</string>
+</resources>
